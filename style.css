@@ -1,0 +1,46 @@
+body{
+    background-color: white;
+}
+
+.centralized{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#topDiv{
+    background-color:cornflowerblue;
+    height:300px;
+    
+}
+
+.padding{
+    margin-top: 25px;
+}
+
+p{font-size: large;}
+
+h1,h2{color: oldlace;}
+
+img, video{
+    max-width: 100%;
+    height: auto;
+}
+
+#cityDiv{
+    background-color: cornflowerblue;
+    padding-bottom: 25px;
+    padding-top: 5px;
+}
+
+#videoDiv{
+    border: 10px solid cornflowerblue;
+    height: fit-content;
+    width: fit-content;
+}
+
+#finalDiv{
+    background-color:cornflowerblue;
+}
+
